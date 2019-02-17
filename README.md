@@ -1,2 +1,2 @@
 # WaterContentEstimationInSoil
-This project aims to detect the water content in soil by doing image processing on the image and estimating the wet and dry pixels of that image.
+This project aims to detect the water content in soil by performing image processing on the image and estimating the wet and dry pixels of that image. An image of a wet soil patch will have more darker pixels(pixel values close to 255 in a grayscale image) as compared to a dry soil patch. The amount of darker pixels might vary according to the different types of soil.
